@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/Pre"
+       
+        android:title="@string/Precios"/>
+    <item android:id="@+id/Promociones"
+       
+        android:title="@string/Promos"/>
+    <item android:id="@+id/ServDom"
+        
+        android:title="@string/Serviciodom"/>
+
+</menu>

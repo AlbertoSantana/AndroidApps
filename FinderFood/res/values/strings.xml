@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">FinderFood</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_actividad_principal">Bienvenido</string>
+	<string name="mensaje">Tipo de Comida</string>
+	<string name="Precios">Rango de Precios</string>
+	<string name="Promos">Promos</string>
+	<string name="Serviciodom">Servicio a Domicilio</string>
+</resources>

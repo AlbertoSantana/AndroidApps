@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Tipo">
+        <item>Todo</item>
+        <item>Italiana</item>
+        <item>Japonesa</item>
+        <item>China</item>
+        <item>Peruana</item>
+        <item>Argentina</item>
+        <item>Comida Rápida</item>
+        <item>Mexicana</item>
+    </string-array>
+    
+</resources>
