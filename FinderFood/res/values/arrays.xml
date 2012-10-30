@@ -11,4 +11,26 @@
         <item>Mexicana</item>
     </string-array>
     
+    <string-array name="Rango">
+        <item>Cualquiera</item>
+        <item>120-220</item>
+        <item>220-320</item>
+        <item>320-420</item>
+        <item>420-520</item>
+        <item>520-820</item>
+        <item>820--></item>
+    </string-array>
+    
+    <string-array name="Restaurante">
+        <item>Restaurante 1</item>
+        <item>Restaurante 2</item>
+        <item>Restaurante 3</item>
+        <item>Restaurante 4</item>
+        <item>Restaurante 5</item>
+        <item>Restaurante 6</item>
+        <item>Restaurante 7</item>
+        <item>Restaurante 8</item>
+        <item>Restaurante 9</item>
+    </string-array>
+    
 </resources>

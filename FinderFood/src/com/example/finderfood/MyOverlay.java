@@ -1,10 +1,14 @@
 package com.example.finderfood;
 
+import java.net.URISyntaxException;
 import java.util.ArrayList;
 
+import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Context;
+import android.content.Intent;
 import android.graphics.drawable.Drawable;
+import android.view.View;
  
 import com.google.android.maps.ItemizedOverlay;
 import com.google.android.maps.OverlayItem;
@@ -39,10 +43,20 @@ public class MyOverlay extends ItemizedOverlay {
 		AlertDialog.Builder dialog = new AlertDialog.Builder(context);
 		dialog.setTitle(item.getTitle());
 		dialog.setMessage(item.getSnippet());
-		dialog.show();
+		
+		//dialog.show();
+		
+		
+        
 		return true;
 	}
- 
+	
+
+	
+
+
+
+
 	public void addOverlay(OverlayItem overlay) {
 		mapOverlays.add(overlay);
 	    this.populate();

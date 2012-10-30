@@ -2,7 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
     <item android:id="@+id/Pre"
        
-        android:title="@string/Precios"/>
+        android:title="@string/Ubicacion"/>
     <item android:id="@+id/Promociones"
        
         android:title="@string/Promos"/>
